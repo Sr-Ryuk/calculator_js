@@ -62,3 +62,8 @@ button:active {
 .operator-btn:active {
   background-color: hsl(35,100%, 75%);
 }
+
+input {
+  color: white;
+  font-weight: bold;
+}
